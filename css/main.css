@@ -1,11 +1,4 @@
-/*
 
-    Template Author : pixelhint.com
-    Author Email    : contact@pixelhint.com
-    Template Name   : Magnetic
-    
-    
-    *****************************************
     
     
     - Fonts
@@ -37,7 +30,7 @@
 
 
 @font-face {
-    font-family: 'raleway-bold';
+    font-family: 'Josefin Sans', sans-serif;
     src: url('../fonts/raleway-bold.eot');
     src: url('../fonts/raleway-bold.eot?#iefix') format('embedded-opentype'),
          url('../fonts/raleway-bold.woff') format('woff'),
