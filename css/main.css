@@ -1,19 +1,4 @@
 
-    
-    
-    - Fonts
-    - General CSS
-    - Header
-    - Home/portfolio 
-    - Inner page 
-    - Map/Contact page  
-    - Tooltip 
-    - Responsive code
-  
-    
-*/
-
-
 
 /*  Fonts  */
 @font-face {
@@ -197,19 +182,10 @@ h5, h6          { font-weight: bolder }
         background-position: -31px 0;
     }
 
-    header ul.social li a.behance,
-    header ul.social li a.behance:hover{
-        background-position: -62px 0;
-    }
 
     header ul.social li a.twitter,
     header ul.social li a.twitter:hover{
         background-position: -93px 0;
-    }
-
-    header ul.social li a.dribble,
-    header ul.social li a.dribble:hover{
-        background-position: -124px 0;
     }
 
     header ul.social li a.rss,
@@ -275,11 +251,6 @@ h5, h6          { font-weight: bolder }
 
 
 
-
-
-
-
-/*  Home/portfolio  */
 .main .work{
     display: block;
     width: 33.33333333333333%;
@@ -333,12 +304,6 @@ h5, h6          { font-weight: bolder }
     border-bottom: 1px solid #bfbbbb;
     border-top: 1px solid #bfbbbb;
 }
-
-
-
-
-
-
 
 /*  Inner Page  */
 .top{
@@ -398,7 +363,7 @@ h5, h6          { font-weight: bolder }
 .top .title{
     display: block;
     width: 100%;color: #4b4848;
-    font-family: "raleway-bold", arial;
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 26px;
     font-weight: bold;
     background: rgba(255, 255, 255, .7);
@@ -425,7 +390,7 @@ h5, h6          { font-weight: bolder }
 
 .content{
     color: #4b4848;
-    font-family: "josefin sans";
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 15px;
     line-height: 22px;
     padding: 60px 30px;
