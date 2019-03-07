@@ -410,14 +410,8 @@ h5, h6          { font-weight: bolder }
     margin-bottom: 60px;
 }
 
-.content h1,
-.content h2,
-.content h3,
-.content h4,
-.content h5,
-.content h6{
     color: #4b4848;
-    font-family: "raleway-semibold", arial;
+   font-family: 'VT323', monospace;
     font-weight: bold;
     line-height: 28px;
     margin-bottom: 30px;
