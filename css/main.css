@@ -62,7 +62,7 @@ header nav ul li a{
 
 h1, h2, h3, h4, h5 ,h6{
     color: #4b4848;
-    font-family: "raleway-regular", arial;
+    font-family: font-family: 'VT323', monospace;
     letter-spacing: 1px;
 }
 
@@ -363,7 +363,7 @@ h5, h6          { font-weight: bolder }
 .top .title{
     display: block;
     width: 100%;color: #4b4848;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'VT323', monospace;
     font-size: 26px;
     font-weight: bold;
     background: rgba(255, 255, 255, .7);
