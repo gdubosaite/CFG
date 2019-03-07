@@ -28,7 +28,7 @@
 
 
 @font-face {
-    font-family: 'raleway-semibold';
+    font-family: 'VT323', monospace;
     src: url('../fonts/raleway-semibold.eot');
     src: url('../fonts/raleway-semibold.eot?#iefix') format('embedded-opentype'),
          url('../fonts/raleway-semibold.woff') format('woff'),
