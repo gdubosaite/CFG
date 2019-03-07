@@ -88,11 +88,6 @@ h5, h6          { font-weight: bolder }
 }
 
 
-
-
-
-
-
 /*  Header  */
 @media (min-width:1099px){
     header{
@@ -135,7 +130,7 @@ h5, h6          { font-weight: bolder }
 
     header nav ul li a:hover,
     header nav ul li a.selected{
-        color: #FA8072;
+        color: #969595;
     }
 
     header .footer{
