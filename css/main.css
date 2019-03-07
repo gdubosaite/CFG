@@ -128,14 +128,14 @@ h5, h6          { font-weight: bolder }
     header nav ul li a{
         color: #454545;
         font-family: "raleway-regular", arial;
-        font-size: 14px;
+        font-size: 17px;
         text-decoration: none;
         letter-spacing: 1px;
     }
 
     header nav ul li a:hover,
     header nav ul li a.selected{
-        color: #969595;
+        color: #FA8072;
     }
 
     header .footer{
